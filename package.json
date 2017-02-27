@@ -1,0 +1,32 @@
+{
+  "name": "redux-form-dropzone",
+  "version": "0.0.1",
+  "description": "React Dropzone wrapper for redux-form",
+  "license": "MIT",
+  "repository": "HugeThoughts/redux-form-dropzone",
+  "author": {
+    "name": "Ashik Nesin",
+    "email": "mail@ashiknesin.com",
+    "url": "github.com/HugeThoughts/redux-form-dropzone"
+  },
+  "engines": {
+    "node": ">=7"
+  },
+  "scripts": {
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "redux-form",
+    "dropzone",
+    "react-dropzone"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dropzone": "^3.11.0"
+  },
+  "devDependencies": {
+  }
+}
