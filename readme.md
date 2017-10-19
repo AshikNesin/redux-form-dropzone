@@ -23,6 +23,11 @@ return (
 }
 
 ```
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/redux-form-dropzone'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/redux-form-dropzone.svg' />
+</a>
+
 ## License
 
 MIT © [Ashik Nesin](https://github.com/HugeThoughts/react-file-field)
